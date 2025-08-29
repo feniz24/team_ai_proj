@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/project_banner.png" alt="Project Banner" width="800"/>
+  <img src="assets/proj_banner.png" alt="Project Banner" width="800"/>
 </p>
 
 # Team_Ai_Project
