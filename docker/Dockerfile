@@ -1,0 +1,17 @@
+FROM python:3.11.0
+
+ENV PORT=8000
+
+EXPOSE $PORT
+
+WORKDIR /app
+COPY . .
+
+RUN pip install pipenv
+
+RUN apt-get update && apt-get install -y libgl1
+
+RUN pipenv install --system --deploy
+
+
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT}"]
