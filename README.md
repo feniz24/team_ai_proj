@@ -6,9 +6,9 @@
 Cat &amp; Dog Segmentation Project by Team AI
 
 Powered By:
-1. (Kyaw Min Thu)[https://github.com/kyawminthu20]
-2. (Su Yee Mon)[https://github.com/digitalsuyee]
-3. (Thant Htet Oo)[https://github.com/feniz24]
+1. [Kyaw Min Thu](https://github.com/kyawminthu20)
+2. [Su Yee Mon](https://github.com/digitalsuyee)
+3. [Thant Htet Oo](https://github.com/feniz24)
 
 # Cat & Dog Segmentation Application
 
